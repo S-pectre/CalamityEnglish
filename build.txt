@@ -1,0 +1,4 @@
+displayName = Calamity Mod English Translation
+author = Spectre/Valentine
+version = 0.1
+modReferences = CalamityMod
